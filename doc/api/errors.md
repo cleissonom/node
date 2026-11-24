@@ -3929,7 +3929,7 @@ attempting a [`require()`][] operation or when loading the program entry point.
 ### `ERR_ASYNC_LOADER_REQUEST_NEVER_SETTLED`
 
 <!-- YAML
-removed: REPLACEME
+removed: v27.0.0-alpha.0.2.0
 -->
 
 An operation related to module loading is customized by an asynchronous loader
@@ -4181,7 +4181,7 @@ An invalid transfer object was passed to `postMessage()`.
 added:
   - v18.6.0
   - v16.17.0
-removed: REPLACEME
+removed: v27.0.0-alpha.0.2.0
 -->
 
 An ESM loader hook returned without calling `next()` and without explicitly

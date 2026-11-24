@@ -170,7 +170,7 @@ added:
   - v23.7.0
   - v22.14.0
 changes:
-  - version: REPLACEME
+  - version: v27.0.0-alpha.0.2.0
     pr-url: https://github.com/nodejs/node/pull/67090
     description: Always `false`, as Node.js no longer runs code in internal threads.
 -->

@@ -4615,7 +4615,7 @@ no longer supported.
 
 <!-- YAML
 changes:
-  - version: REPLACEME
+  - version: v27.0.0-alpha.0.2.0
     pr-url: https://github.com/nodejs/node/pull/67090
     description: End-of-Life.
   - version: v26.0.0
@@ -4851,7 +4851,7 @@ Type: Documentation-only
 
 <!-- YAML
 changes:
-  - version: REPLACEME
+  - version: v27.0.0-alpha.0.2.0
     pr-url: https://github.com/nodejs/node/pull/67461
     description: Documentation-only deprecation.
 -->
@@ -4865,7 +4865,7 @@ Use global `TextDecoder` and `TextEncoder` instead.
 
 <!-- YAML
 changes:
-  - version: REPLACEME
+  - version: v27.0.0-alpha.0.2.0
     pr-url: https://github.com/nodejs/node/pull/67532
     description: Documentation-only deprecation
                  with `--pending-deprecation` support.

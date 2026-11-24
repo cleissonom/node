@@ -5,7 +5,7 @@
 <!-- YAML
 added: v22.5.0
 changes:
-  - version: REPLACEME
+  - version: v27.0.0-alpha.0.2.0
     pr-url: https://github.com/nodejs/node/pull/67654
     description: SQLite is now stable.
   - version:
